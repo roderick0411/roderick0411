@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I used to think i'm good at Math. <br/>So here I am, foraying my way into the realm of Data Science & Machine Learning<br/>
+#### I used to think i'm good at Math. <br/><br/> So here I am, foraying my way into the realm of Data Science & Machine Learning<br/><br/>
 
 
 

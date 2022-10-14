@@ -7,5 +7,5 @@
 
 
 - 📧 Be my pen pal at: [roderickworkmail@gmail.com](mailto:roderickworkmail@gmail.com) 
-- ⚔️ Pronouns: **Lord Commander**
+- 🙋‍♂️ Pronouns: **Lord Commander**
 - ⚡ Fun fact: [I need more friends](https://wa.me/919811930445?text=Hey!%20What%20up) 

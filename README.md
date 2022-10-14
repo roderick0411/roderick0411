@@ -2,7 +2,9 @@
 
 
 ## 🚀 About Me
-I thought i'm good at Math. So here I am, foraying my way into the realm of Data Science & Machine Learning...
+I used to think i'm good at Math. <br/>So here I am, foraying my way into the realm of Data Science & Machine Learning<br/>
+
+
 
 - 📧 Be my pen pal at: [roderickworkmail@gmail.com](mailto:roderickworkmail@gmail.com) 
 - 😄 Pronouns: **Lord Commander**

@@ -2,4 +2,4 @@
 
 
 ## 🚀 About Me
-#### Hitting it hard to be a full stack developer 
+# Full Stack Developer

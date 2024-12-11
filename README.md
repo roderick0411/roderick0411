@@ -23,7 +23,7 @@
 <img src="./Icons/python.svg" width="48">
 </p>
 
-### Here are the Tools/Skills I'm trying to learn
+### Here are a few Tools/Skills I'm trying to learn
 
 <p>
 <img src="./Icons/svg.svg" width="48"> &nbsp; 

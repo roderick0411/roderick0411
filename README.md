@@ -9,8 +9,8 @@
 </p>
 
 <p> 
-<a href="https://roderick0411.github.io/Roderick%20Full%20Stack%20Dev.pdf"><img src="./Icons/resume-button.svg" width="150"></a> &nbsp; &nbsp; 
-<a href="https://roderick0411.github.io/"><img src="./Icons/portfolio-button.svg" width="150"></a> &nbsp; 
+<a target="_blank" href="https://roderick0411.github.io/Roderick%20Full%20Stack%20Dev.pdf"><img src="./Icons/resume-button.svg" width="150"></a> &nbsp; &nbsp; 
+<a target="_blank" href="https://roderick0411.github.io/"><img src="./Icons/portfolio-button.svg" width="150"></a> &nbsp; 
 </p>
 
 ### Additional Skills & Tools I frequently work with

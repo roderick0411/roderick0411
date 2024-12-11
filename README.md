@@ -31,7 +31,6 @@
 <img src="./Icons/p5.svg" width="48">  &nbsp; 
 <img src="./Icons/threejs.svg" width="48">  &nbsp; 
 <img src="./Icons/figma.svg" width="48">  &nbsp; 
-<img src="./Icons/lottie.svg" width="48">  &nbsp; 
 </p>
 
 

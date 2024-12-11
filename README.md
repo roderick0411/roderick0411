@@ -10,7 +10,7 @@
 <img src="./Icons/mongodb.svg" width="48"> &nbsp; 
 <img src="./Icons/express.svg" width="48"> &nbsp; 
 <img src="./Icons/react.svg" width="48"> &nbsp; 
-<img src="./Icons/node.svg" width="48"> &nbsp; 
+<img src="./Icons/node.svg" width="48"> &nbsp;
 </p>
 
 ### Core Skills & Tools I frequently work with
@@ -20,7 +20,8 @@
 <img src="./Icons/css.svg" width="48"> &nbsp; 
 <img src="./Icons/sass.svg" width="48"> &nbsp;
 <img src="./Icons/javascript.svg" width="48"> &nbsp;  
-<img src="./Icons/python.svg" width="48">
+<img src="./Icons/python.svg" width="48"> &nbsp;
+<img src="./Icons/git.svg" width="48"> &nbsp;
 </p>
 
 ### Here are a few Tools/Skills I'm trying to learn

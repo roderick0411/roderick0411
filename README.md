@@ -9,8 +9,8 @@
 </p>
 
 <p> 
-<img src="./Icons/resume-button.svg" width="48"> &nbsp; 
-<img src="./Icons/portfolio-button.svg" width="48"> &nbsp; 
+<a href="https://roderick0411.github.io/Roderick%20Full%20Stack%20Dev.pdf"><img src="./Icons/resume-button.svg" width="150"></a> &nbsp; &nbsp; 
+<a href="https://roderick0411.github.io/"><img src="./Icons/portfolio-button.svg" width="150"></a> &nbsp; 
 </p>
 
 ### Additional Skills & Tools I frequently work with
@@ -34,5 +34,4 @@
 <img src="./Icons/lottie.svg" width="48">  &nbsp; 
 </p>
 
-<img src="./Icons/resume-button.svg" width="48">  &nbsp; 
 

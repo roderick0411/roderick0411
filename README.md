@@ -5,7 +5,7 @@
 <a target="_blank" href="https://roderick0411.github.io/"><img src="./Icons/portfolio-button.svg" width="150"></a> &nbsp; 
 </p>
 
-## I'm a Full Stack Developer, proficient in the **MERN** stack
+## I'm a Full Stack Developer, with experience in the **MERN** stack
 <p> 
 <img src="./Icons/mongodb.svg" width="48"> &nbsp; 
 <img src="./Icons/express.svg" width="48"> &nbsp; 

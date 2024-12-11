@@ -23,7 +23,7 @@
 
 <p>
 <img src="./Icons/svg.svg" width="48"> &nbsp; 
-<img src="./Icons/d3.svg" width="48"> &nbsp; 
-<img src="./Icons/figma.svg" width="48">
+<img src="./Icons/d3.svg" width="48">  &nbsp; 
+<img src="./Icons/figma.svg" width="48">  &nbsp; 
 </p>
 

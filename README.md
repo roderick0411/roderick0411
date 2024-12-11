@@ -8,6 +8,11 @@
 <img src="./Icons/node.svg" width="48"> &nbsp; 
 </p>
 
+<p> 
+<img src="./Icons/portfolio-button.svg" width="48"> &nbsp; 
+<img src="./Icons/resume-button.svg" width="48"> &nbsp; 
+</p>
+
 ### Additional Skills & Tools I frequently work with
 
 <p>
